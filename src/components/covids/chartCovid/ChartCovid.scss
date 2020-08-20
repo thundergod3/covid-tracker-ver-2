@@ -1,0 +1,12 @@
+.chartCovid {
+	margin-top: 10px;
+	flex-grow: 1;
+
+	& > h3 {
+		margin-bottom: 10px;
+	}
+}
+
+canvas {
+	height: 100%;
+}

@@ -1,0 +1,15 @@
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 20px;
+
+	& > h1 {
+		color: #fc3c3c;
+		font-size: 2rem;
+	}
+
+	& > .header__title {
+		text-transform: uppercase;
+	}
+}
